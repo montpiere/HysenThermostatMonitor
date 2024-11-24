@@ -1,6 +1,3 @@
-import broadlink
-from broadlink.climate import hysen
-
 # Eszközök keresése
 import broadlink
 
